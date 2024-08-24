@@ -1,0 +1,7 @@
+{
+   "refundRequest": [
+{ "merchantId" : "1000003", "aggregatorId" : "SBIEPAY", "queryRequest" : "3353665819561|8091514937910|1000003"},
+{ "merchantId" : "1000003", "aggregatorId" : "SBIEPAY", "queryRequest" : "3353665819561|8091514937910|100000"}
+
+   ]
+}
